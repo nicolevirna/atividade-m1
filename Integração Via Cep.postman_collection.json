@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "0cf74a94-549e-4545-8247-a87b3995023f",
+		"name": "Integração Via Cep",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "43221977"
+	},
+	"item": [
+		{
+			"name": "Via Cep",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/product/address/p1/08773380"
+			},
+			"response": []
+		}
+	]
+}
